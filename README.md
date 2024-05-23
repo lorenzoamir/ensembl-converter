@@ -55,7 +55,7 @@ Replace **`ids.txt`** with the path to your text file containing the Ensembl gen
 ## **Options**
 The **`EnsemblConverter`** class supports the following options:
 
-* **`use_progressbar`** (default=False): Set this to **`True`** to display a progress bar during the conversion process. This can be useful for larger gene lists.
+* **`use_progress_bar`** (default=False): Set this to **`True`** to display a progress bar during the conversion process. This can be useful for larger gene lists.
 
 ## **Dependencies**
 The Ensembl_converter package depends on the following libraries:
